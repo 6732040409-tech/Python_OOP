@@ -1,4 +1,4 @@
-# objectoSttring
+ # objectoSttring
 # แปลง object เป็น String
 # def __stre__(self)
 # raturn "ชุดข้อความ"
